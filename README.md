@@ -3,7 +3,7 @@ layout: cv
 title: Alexandros Dilaveris's CV
 ---
 # Alexandros Dilaveris
-Computer scientist, Dental technician, Professor.
+Computer scientist, Dental technician, Teacher.
 <!--
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -16,15 +16,33 @@ Computer scientist, Dental technician, Professor.
 Doing a million things.
 
 ## Education
+
 Greek Open University, Informatics
+
 Dental Lab Technician School, Athens and Heraklion
 
+## Occupation
+Dental Lab owner
+
+IT Support
+
+Educational Robotics Teacher and Coach
+
+Professor at Rethymnon Institute of Vocational Training (Ινστιτούτο Επαγγελματικής Κατάρτισης)
+
 ### Specialized in
-Movable and Immovable prosthesis, IT Troubleshooting, IT Support
+
+Movable and Immovable prosthesis
+
+IT Troubleshooting
+
+IT Support
 
 ### Languages
 Greek (Native)
+
 English (C2)
+
 Italian (B2)
 
 <!--
@@ -33,29 +51,10 @@ Italian (B2)
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
