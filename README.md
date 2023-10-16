@@ -2,14 +2,11 @@
 layout: cv
 title: Alexandros Dilaveris's CV
 ---
-# Alexandros Dilaveris
+<img src="Photo.jpg" width="100" height="150">
+
+# Alexandros Dilaveris 
 Computer scientist, Dental technician, Teacher.
-<!--
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
--->
+
 
 ## Currently
 
@@ -60,21 +57,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
--->
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
 
