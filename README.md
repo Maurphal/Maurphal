@@ -25,7 +25,7 @@ IT Support
 
 Educational Robotics Teacher and Coach
 
-Professor at Rethymnon Institute of Vocational Training (Ινστιτούτο Επαγγελματικής Κατάρτισης)
+Teacher at Rethymnon Institute of Vocational Training (Ινστιτούτο Επαγγελματικής Κατάρτισης)
 
 ### Specialized in
 
